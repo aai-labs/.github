@@ -38,6 +38,7 @@ See [all products and ways to work with us](https://www.aai-labs.com/en/products
 Here on GitHub, we share tools and benchmarks from our engineering work:
 
 - [**Agent Barn**](https://github.com/aai-labs/agent-barn) — an open-source control plane for running AI agents in your own Kubernetes cluster.
+- [**AAI CLI**](https://github.com/aai-labs/aai-cli) — a command-line toolkit that gives AI agents and automation a consistent JSON interface to business tools, including Jira, GitHub, email, and calendars.
 - [**Tickmark**](https://github.com/aai-labs/Tickmark) — a benchmark for AI agents building financial models in Excel, checking both correct results and auditable formulas.
 - [**AI Starter**](https://github.com/aai-labs/ai-starter) — a starter kit for AI coding agents with shared development guidelines.
 - [**AAI Alertmanager UI**](https://github.com/aai-labs/aai-alertmanager-ui) — a focused interface for Prometheus Alertmanager, with critical alerts first and less noise.
