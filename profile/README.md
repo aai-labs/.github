@@ -1,10 +1,12 @@
 # AAI Labs
 
-**Building applied AI solutions since 2018.**
+**Custom AI engineering, research, and open-source tools since 2018.**
 
 We are an AI engineering and research company based in Vilnius, Lithuania. We build custom AI systems for businesses, public institutions, and governments across Europe and beyond, combining applied research with software engineering to bring AI into everyday operations.
 
-[Website](https://www.aai-labs.com/en/home) · [Case studies](https://www.aai-labs.com/en/cases) · [Research](https://www.aai-labs.com/en/research) · [LinkedIn](https://www.linkedin.com/company/aai-labs/)
+**Start here:** [Try AgentBarn](https://agentbarn.dev/guides/get-started/local-quickstart) · [Explore AAI CLI](https://github.com/aai-labs/aai-cli#quick-start) · [Discuss an AI project](https://www.aai-labs.com/en/contact)
+
+[Company website](https://www.aai-labs.com/en/home) · [AI case studies](https://www.aai-labs.com/en/cases) · [Applied AI research](https://www.aai-labs.com/en/research) · [LinkedIn](https://www.linkedin.com/company/aai-labs/)
 
 ## What we do
 
@@ -18,6 +20,14 @@ We work on problems across language, speech, vision, and structured data:
 Our work spans healthcare, manufacturing, finance, transport, energy, and public services. We build around each organisation's data, infrastructure, and operating requirements, from model development to integration and deployment.
 
 Explore our [services](https://www.aai-labs.com/en/services) and [projects in practice](https://www.aai-labs.com/en/cases).
+
+## Selected projects
+
+- **Manufacturing — CAD quality checks for DIAB.** Inconsistent DXF and CNC files required manual review. We built automated error detection and nesting optimisation; the project reported 95% accuracy in cut-angle detection and 90% accuracy in cut-position identification within panels. [Read the manufacturing case study](https://www.aai-labs.com/en/cases/diab).
+- **Transport — a connected pilot in Vilnius.** With JUDU, the municipality, and partners, we combined edge AI and 5G for traffic, road, and passenger monitoring across five buses, five intersections, and five bus stops. The pilot reported 97.9% vehicle-detection precision. [Read the transport case study](https://www.aai-labs.com/en/cases/transport).
+- **Healthcare — FTIR analysis with Santaros Klinikos.** We developed a prototype to help interpret kidney-stone spectra, addressing slow manual analysis. The case study reports a reduction in analysis time of up to 80%. [Read the healthcare case study](https://www.aai-labs.com/en/cases/kidney-stones).
+
+These figures describe the individual projects; the linked case studies provide their context and scope.
 
 ## Products
 
