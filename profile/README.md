@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/aai-labs/.github/main/profile/assets/header-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/aai-labs/.github/main/profile/assets/header-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aai-labs/.github/main/profile/assets/header-dark.svg">
-  <img src="https://raw.githubusercontent.com/aai-labs/.github/main/profile/assets/header-light.svg" alt="AAI Labs — open-source tools and applied AI research" width="900">
+  <img src="https://raw.githubusercontent.com/aai-labs/.github/main/profile/assets/header-light.svg" alt="AAI Labs: open-source tools and applied AI research" width="900">
 </picture>
 
 We build and share tools for AI agents, developer workflows, and model evaluation. AAI Labs is an AI engineering and research company in Vilnius, Lithuania, working on applied AI since 2018.
@@ -44,9 +44,9 @@ Explore our [models and datasets on Hugging Face](https://huggingface.co/aai-lab
 
 Practical evaluations and research from the engineering problems we work on. A few starting points:
 
-- [**Memory Under Noise**](https://www.aai-labs.com/en/research/memory-under-noise) — how AI-assistant memory systems retain evidence as conversation histories grow.
-- [**Local LLM Benchmark: Administrative Tasks**](https://www.aai-labs.com/en/research/local-llm-benchmark-administrative-tasks) — 13 locally run models evaluated across 21 office tasks.
-- [**Temporal Conflict Resolution in Legal RAG**](https://www.aai-labs.com/en/research/temporal-conflict-resolution-legal-rag) — retrieval design when current and superseded legal sources conflict.
+- [**Memory Under Noise**](https://www.aai-labs.com/en/research/memory-under-noise): how AI-assistant memory systems retain evidence as conversation histories grow.
+- [**Local LLM Benchmark: Administrative Tasks**](https://www.aai-labs.com/en/research/local-llm-benchmark-administrative-tasks): 13 locally run models evaluated across 21 office tasks.
+- [**Temporal Conflict Resolution in Legal RAG**](https://www.aai-labs.com/en/research/temporal-conflict-resolution-legal-rag): retrieval design when current and superseded legal sources conflict.
 
 [Browse all research and evaluations →](https://www.aai-labs.com/en/research)
 
@@ -83,9 +83,9 @@ Explore our [services](https://www.aai-labs.com/en/services) and [projects in pr
 
 ## Selected projects
 
-- **Manufacturing — CAD quality checks for DIAB.** Inconsistent DXF and CNC files required manual review. We built automated error detection and nesting optimisation; the project reported 95% accuracy in cut-angle detection and 90% accuracy in cut-position identification within panels. [Read the manufacturing case study](https://www.aai-labs.com/en/cases/diab).
-- **Transport — a connected pilot in Vilnius.** With JUDU, the municipality, and partners, we combined edge AI and 5G for traffic, road, and passenger monitoring across five buses, five intersections, and five bus stops. The pilot reported 97.9% vehicle-detection precision. [Read the transport case study](https://www.aai-labs.com/en/cases/transport).
-- **Healthcare — FTIR analysis with Santaros Klinikos.** We developed a prototype to help interpret kidney-stone spectra, addressing slow manual analysis. The case study reports a reduction in analysis time of up to 80%. [Read the healthcare case study](https://www.aai-labs.com/en/cases/kidney-stones).
+- **Manufacturing: CAD quality checks for DIAB.** Inconsistent DXF and CNC files required manual review. We built automated error detection and nesting optimisation; the project reported 95% accuracy in cut-angle detection and 90% accuracy in cut-position identification within panels. [Read the manufacturing case study](https://www.aai-labs.com/en/cases/diab).
+- **Transport: a connected pilot in Vilnius.** With JUDU, the municipality, and partners, we combined edge AI and 5G for traffic, road, and passenger monitoring across five buses, five intersections, and five bus stops. The pilot reported 97.9% vehicle-detection precision. [Read the transport case study](https://www.aai-labs.com/en/cases/transport).
+- **Healthcare: FTIR analysis with Santaros Klinikos.** We developed a prototype to help interpret kidney-stone spectra, addressing slow manual analysis. The case study reports a reduction in analysis time of up to 80%. [Read the healthcare case study](https://www.aai-labs.com/en/cases/kidney-stones).
 
 These figures describe the individual projects; the linked case studies provide their context and scope.
 
